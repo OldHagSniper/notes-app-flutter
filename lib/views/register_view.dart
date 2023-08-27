@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:learningdart/constants/routes.dart';
 import 'package:learningdart/utils/dialogs.dart';
 import 'dart:developer' as devtools show log;
-import '../firebase_options.dart';
 
 class RegisterView extends StatefulWidget {
   const RegisterView({super.key});
