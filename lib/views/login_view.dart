@@ -3,7 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:learningdart/constants/routes.dart';
 import 'package:learningdart/views/notes_view.dart';
-import '../firebase_options.dart';
+
 import 'dart:developer' as devtools show log;
 
 import '../utils/dialogs.dart';
